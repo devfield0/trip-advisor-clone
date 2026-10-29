@@ -36,7 +36,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo and cd into it
 	```
-	git clone https://github.com/meetcodeman/trip-advisor
+	git clone https://github.com/devfield0/trip-advisor-clone
 	cd trip-advisor
 	```
 2. Install the gems
